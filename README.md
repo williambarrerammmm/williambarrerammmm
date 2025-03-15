@@ -64,6 +64,10 @@ Soy un apasionado desarrollador con amplia experiencia en la construcción de ap
 ### 🔥 Otros  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+
+
 </p>
 
 </td>
