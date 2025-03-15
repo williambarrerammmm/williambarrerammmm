@@ -10,14 +10,16 @@ Soy un apasionado desarrollador con amplia experiencia en la construcción de ap
 
 <table>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="33%">
 
 ### 🖥️ Backend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50"/>
 </p>
+&nbsp;
 
 ### ✅ Testing 
 <p>
@@ -27,7 +29,7 @@ Soy un apasionado desarrollador con amplia experiencia en la construcción de ap
 </p>
 
 </td>
-<td valign="top" width="39%">
+<td valign="top" width="33%">
 
 ### 🎨 Frontend 
 <p>
@@ -36,6 +38,7 @@ Soy un apasionado desarrollador con amplia experiencia en la construcción de ap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
 </p>
+&nbsp;
 
 ### ☁️ Infraestructura  
 <p>
@@ -46,19 +49,21 @@ Soy un apasionado desarrollador con amplia experiencia en la construcción de ap
 </p>
 
 </td>
-<td valign="top" width="32%">
+<td valign="top" width="33%">
 
 ### 🗄️ Bases de Datos 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50"/>
+
 </p>
+&nbsp;
 
 ### 🔥 Otros  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50"/>
 </p>
 
 </td>
