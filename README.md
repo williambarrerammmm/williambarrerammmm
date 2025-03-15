@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy William Barera  
+# 👋 ¡Hola! Soy William Barrera  
 
 ### 🚀 Desarrollador Senior Fullstack | Enfoque en Backend con Java Spring Boot  
 
